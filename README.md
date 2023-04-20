@@ -3,6 +3,25 @@
 ## Livro: Batista & Moraes (Pág: 78 a 80)
 ## Alunos: _Douglas & Gabriel_
 #
+
+#### Questão 1: <br>
+<img src="Diagrama2.png">
+
+#### Questão 2: <br>
+<img src="Diagrama3.png">
+
+#### Questão 7:
+Esta errado nas linhas 1, onde o nome da classe esta separodo por espaço em branco e 3 a 5, onde o local mosta uma declaração de um comentario e não de campos da classe.
+1 class Registro De Eleitor<br>
+2 {<br>
+3 /**<br>
+4 * Declaração dos campos desta classe<br>
+5 */<br>
+6 int tituloDeEleitor; // número do título do <br>eleitor<br>
+7 String nome; // nome do eleitor<br>
+8 short zonaEleitoral; // número da zona <br>eleitoral<br>
+9 } // fim da classe<br>
+
 #### Questão 8: <br>
 Identifique e explique o(s) erro(s) na classe abaixo: <br>
 <br>
